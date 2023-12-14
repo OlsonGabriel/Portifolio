@@ -5,3 +5,29 @@ charset UTF-8
     margin: 0;
 }
 
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #17202A;
+
+}
+
+.cabecalho{
+    background-color: #17202A;
+    width: 100vw;
+    color: aliceblue;
+    text-align: center;
+
+}
+
+.conteudo{
+    background-color: aliceblue;
+
+}
+
+.rodape{
+    color: aliceblue;
+    text-align: left;
+    font-size: 14px;
+
+}
